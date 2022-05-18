@@ -1,0 +1,85 @@
+User-agent: Applebot
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: baiduspider
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: Bingbot
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: Discordbot
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: facebookexternalhit
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: Googlebot
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: Googlebot-Image
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: ia_archiver
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: LinkedInBot
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: msnbot
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: Naverbot
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: Pinterestbot
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: Screaming Frog SEO Spider
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: seznambot
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: Slurp
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: teoma
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: TelegramBot
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: Twitterbot
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: Yandex
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: Yeti
+Disallow: /login.html/
+Disallow: /login_style.css/
+
+User-agent: Applebot
+Disallow: /login.html/
+Disallow: /login_style.css/
+User-agent: *
+Disallow: /
